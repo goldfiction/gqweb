@@ -1,0 +1,16 @@
+{
+  "name": "gqweb",
+  "version": "1.0.0",
+  "description": "A small server for communication and data distributing",
+  "main": "app.js",
+  "node_version": "18.20.2",
+  "dependencies": {
+    "express": "4.19.2"
+  },
+  "scripts": {
+    "test": "node app.js",
+    "install": "npm install --no-bin-links"
+  },
+  "author": "glidev5@gmail.com",
+  "license": "Apache-2"
+}
